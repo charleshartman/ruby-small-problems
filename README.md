@@ -1,2 +1,2 @@
 # ruby-small-problems
-### procedural and object oriented coding examples
+### Procedural and object oriented coding problem solutions in Ruby. 
